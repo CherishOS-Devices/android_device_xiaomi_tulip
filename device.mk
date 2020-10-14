@@ -643,9 +643,10 @@ PRODUCT_PACKAGES += \
     GCamGo
 
 PRODUCT_PACKAGES += \
-   XiaomiParts
+    XiaomiParts \
+    XiaomiDoze \
+    Dirac
 
 # Recorder
 PRODUCT_PACKAGES += \
     OPScreenRecorder
-

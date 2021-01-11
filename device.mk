@@ -644,8 +644,8 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     XiaomiDoze \
-    Dirac
 
 # Recorder
 PRODUCT_PACKAGES += \
     OPScreenRecorder
+

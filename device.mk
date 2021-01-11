@@ -643,7 +643,6 @@ PRODUCT_PACKAGES += \
     GCamGo
 
 PRODUCT_PACKAGES += \
-    XiaomiParts \
     XiaomiDoze \
     Dirac
 

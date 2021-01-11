@@ -642,10 +642,16 @@ PRODUCT_BOOT_JARS += \
 PRODUCT_PACKAGES += \
     GCamGo
 
-PRODUCT_PACKAGES += \
-    XiaomiDoze \
-
 # Recorder
 PRODUCT_PACKAGES += \
     OPScreenRecorder
 
+# XiaomiParts
+PRODUCT_PACKAGES += \
+    XiaomiParts \
+    init.gpuboost.rc \
+    init.gpuboost.sh \
+    init.cpuboost.rc \
+    init.cpuboost.sh \
+    init.parallax.rc \
+    init.parallax.sh
